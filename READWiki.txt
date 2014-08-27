@@ -1,0 +1,3 @@
+Click on link below:
+
+https://github.com/nadzic/bladeangularjs/wiki/Laravel-blade-%7B%7B-$variable-%7D%7D,-AngularJS-%7B%7B-variable-%7D%7D
